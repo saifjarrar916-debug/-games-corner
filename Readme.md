@@ -26,8 +26,11 @@ The project focuses on creating a clean, organized, and responsive user interfac
 
 ## Screenshots
 
-![Games Dashboard](images/homepage.png)
+![Game 1](game1.png)
 
+![Game 2](game2.png)
+
+![Game 3](game3.png)
 ## Project Structure
 
 - `index.html` — Main dashboard page

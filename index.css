@@ -1,3 +1,4 @@
+
 body{
     display: flex;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -7,8 +8,7 @@ padding-left: 10px;
  
 
 #main{
-background: linear-gradient(to right, #e0c3fc, #8ec5fc);
-
+background:linear-gradient(to right, #e0c3fc, #8ec5fc);
 border-radius: 10px;
 width: 1000px;
 height: 325vh;
@@ -37,11 +37,11 @@ li{
 }
 #discription{
     width: 150px;
-    border-radius: 10px;
+   
     font-size: small;
     margin-left: 20px;
     padding-left: 10px;
-    background-color: white;
+   
    margin-top: 1300px;
     
 }
@@ -88,6 +88,7 @@ transition: ease 0.3s;
 
 
 #trending{
+    margin-top: 20px;
     background-color: black;
     border-radius: 5px;
     padding: 5px;
@@ -223,16 +224,19 @@ margin-right: 100px;}
   
 }
 .game{
+    
     text-align: center;
     background-color: white;
     width: 200px;
-    height: 210px;
+    height: 230px;
     padding: 5px;
+    
 }
 
 .game img{
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
+    margin-left: 30px;
 }
 
 .game label{
